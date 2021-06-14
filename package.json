@@ -1,4 +1,9 @@
 {
 "name": "bot",
-"description": "a bot
+"description": "a bot",
+"version" : "1.0",
+"author" : "Ayush4385",
+"scripts" : {
+ "start" : "node index.js"
+}
 }
