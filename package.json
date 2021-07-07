@@ -5,7 +5,7 @@
 "author" : "Ayush4385",
 "scripts" : {
  "start" : "node index.js"
-}
+},
 "dependencies": {
 "discord.js": "^12.5.3"
 }
