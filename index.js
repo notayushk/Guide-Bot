@@ -12,4 +12,4 @@ client.on('interaction', async interaction => {
 	}
 });
 
-client.login('token');
+client.login(process.env.Token);
