@@ -7,6 +7,6 @@
  "start" : "node index.js"
 },
 "dependencies": {
-"discord.js": "^12.5.3"
+"discord.js": "^13.1.0"
 }
 }
